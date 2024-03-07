@@ -8,22 +8,13 @@ Walaupun telah menjadi menjadi perusahaan yang cukup besar, Jaya Jaya Maju masih
 *Attrition rate* yang tinggi akan berdampak pada berbagai sektor perusahaan seperti kebutuhan finansial yang tinggi akibat biaya perekrutan terus menerus dan operasional yang terganggu akibat pegawai baru yang memerlukan adaptasi. Seluruh hal tersebut berujung akan berujung pada produktivitas dan kinerja perusahaan yang menurun serta citra buruk bagi perusahaan. Oleh Karena itu diharapkan dengan diketahuinya faktor yang mempengaruhi *attrition rate*, perusahaan dapat mencegah dan menghindari masalah tersebut.
 
 ### Permasalahan Bisnis
-Tingkat *Attrition rate* akan berdampak pada kinerja perusahaan karena dapat mengganggu finansial dan operasional perusahaan akibar rekrutan baru. Untuk mengetahui faktor yang berpengaruh  pada *attrition rate* terdapat beberapa kategori faktor yang akan menjadi pokok permasalahan yang akan dijawab pada analisa proyek ini, adapaun faktor tersebut adalah sebagai berikut
+Tingkat *Attrition rate* akan berdampak pada kinerja perusahaan karena dapat mengganggu finansial dan operasional perusahaan akibar rekrutan baru. Adapun permasalahan yang dapat dirumuskan pada kasus ini adalah sebagai berikut : 
 
-- Faktor Individu
-  - Berapa rata-rata usia pegawai yang mengalami pengurangan *(Attrition)* tiap tahunnya ?
-  - Berapa rata-rata lama bekerja pegawai yang mengalami pengurangan *(Attrition)* tiap tahunnya ?
-  - Seberapa besar jumlah pegawai yang mengalami *Attrition* berdasarkan status pernikahannya ?
-  - Seberapa besar jarak tempuh pegawai dari rumah ke kantor yang mengalami *attrition* ?
-
-- Faktor Pekerjaan
-  - Berapa jumlah gaji seorang pegawai yang mengalami *Attrition* ?
-  - Pada beban tanggungjawab *(job level)* mana saja seorang pegawai mengalami *Attrition* ?
-  - Berapa banyak pegawai yang mengalami waktu kerja berlebih *(Over Time)* sehingga terdampak *attrition* ?
-  - Pada kategori *job satisfactory* mana saja pegawai yang mengalami *attrition* ?
-
-- Faktor Organisasi
-  - Departemen mana saja pegawai yang mengalami *attrition* ?
+- Berapa jumlah pegawai yang mengalami *attrition* ?
+- Pada umur berapakah pegawai yang mengalami *attrition* ?
+- Apakah *salary / montyly income* pegawai mempengaruhi jumlah *attrition* ?
+- Bagaimana *satisfaction* pegawai pada tiap *job role* pada perusahaan tersebut ?
+- Berapa rata rata lama bekerja pegawai yang mengalami *attrition* ?  
 
 ### Cakupan Proyek
 

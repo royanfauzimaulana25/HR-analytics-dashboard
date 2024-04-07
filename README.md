@@ -1,4 +1,4 @@
-# Proyek Submission Pertama : Menyelesaikan Permasalahan *Human Resource*
+# *Human Resource* Dashboard
 ## Business Understanding
 
 Jaya Jaya Maju merupakan salah satu perusahaan multinasional yang telah berdiri sejak tahun 2000. Ia memiliki lebih dari 1000 karyawan yang tersebar di seluruh penjuru negeri.
